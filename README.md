@@ -2,6 +2,8 @@
 
 This uses Virus City's postal map edited to use OCRP Postals
 
+Please create an issue if you find any duplicate postal or any other error
+
 ## Example Images:
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f61f6a95-cab2-4dbf-8e15-eac238807cc7" />
