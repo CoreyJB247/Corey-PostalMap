@@ -14,6 +14,8 @@ OCRP Postals have been edited to remove duplicates and a few added such as the a
 
 A version of postal.lua will be included in the future
 
+Included PNG for Prompt's Sandy Bridge - https://store.prompt-mods.com/store/package/6443485
+
 A PSD is ready just need to find a way to implement into GitHub
 
 ## Credits:
