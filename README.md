@@ -14,7 +14,7 @@ Please create an issue if you find any duplicate postal or any other error
 ## Note:
 OCRP Postals have been edited to remove duplicates and a few added such as the airport
 
-A version of postal.lua will be included in the future
+A version of postal.lua will be included in the future (Now added)
 
 Included PNG for Prompt's Sandy Bridge - https://store.prompt-mods.com/store/package/6443485
 
