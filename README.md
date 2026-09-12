@@ -29,3 +29,5 @@ Virus City's Atlas Map - https://forum.cfx.re/t/release-postal-code-map-minimap-
 OCRP Postal Map - https://forum.cfx.re/t/ocrp-postal-and-minimap-server-side/992775
 
 LUX CAD (For Cayo Perico Postals) - https://lux-cad.com/
+
+Base Cayo Perico Map - https://forum.cfx.re/t/exclusivity-cayo-perico-island-color-minimap/2003927
