@@ -18,11 +18,11 @@ A version of postal.lua will be included in the future (Now added)
 
 Included PNG for Prompt's Sandy Bridge - https://store.prompt-mods.com/store/package/6443485
 
-A PSD is ready just need to find a way to implement into GitHub
+A PSD is ready just need to find a way to implement into GitHub 
 
 ## Credits:
 Virus City's Atlas Map - https://forum.cfx.re/t/release-postal-code-map-minimap-new-improved-v1-3/147458
 
 OCRP Postal Map - https://forum.cfx.re/t/ocrp-postal-and-minimap-server-side/992775
 
-Lux CAD (For Cayo Perico Postals) - https://lux-cad.com/
+LUX CAD (For Cayo Perico Postals) - https://lux-cad.com/
